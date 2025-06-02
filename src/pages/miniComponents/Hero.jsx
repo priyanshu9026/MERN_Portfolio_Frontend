@@ -56,24 +56,22 @@ const Hero = () => {
         className="w-fit px-5 py-2 bg-slate-50 rounded-[20px] flex gap-5 
       items-center mt-4 md:mt-8 lg:mt-10"
       >
-        <Link to={"https://www.youtube.com/@CodeWithZeeshu"} target="_blank">
+        <Link to={"https://www.youtube.com/@priyanshusingh4695"} target="_blank">
           <Youtube className="text-red-500 w-7 h-7" />
         </Link>
-        <Link to="" target="_blank">
+        <Link to="https://www.instagram.com/priyanshu_singh_9026" target="_blank">
           <Instagram className="text-pink-500 w-7 h-7" />
         </Link>
-        <Link to="" target="_blank">
-          <Facebook className="text-blue-800 w-7 h-7" />
-        </Link>
-        <Link to="" target="_blank">
+       
+        <Link to="https://www.linkedin.com/in/priyanshu-singh-1b6678244" target="_blank">
           <Linkedin className="text-sky-500 w-7 h-7" />
         </Link>
-        <Link to="" target="_blank">
+        <Link to="https://x.com/Priyans29473191" target="_blank">
           <Twitter className="text-blue-800 w-7 h-7" />
         </Link>
       </div>
       <div className="mt-4 md:mt-8 lg:mt-10  flex gap-3">
-        <Link to="www.github.com" target="_blank">
+        <Link to="https://github.com/priyanshu9026" target="_blank">
           <Button className="rounded-[30px] flex items-center gap-2 flex-row">
             <span>
               <Github />
@@ -81,7 +79,7 @@ const Hero = () => {
             <span>Github</span>
           </Button>
         </Link>
-        <Link to="/" target="_blank">
+        <Link to="https://drive.google.com/file/d/1ZhuehhqWG2HY469H6OAi4Ug9I7GIjbfP/view?usp=sharing" target="_blank">
           <Button className="rounded-[30px] flex items-center gap-2 flex-row">
             <span>
               <ExternalLink />
